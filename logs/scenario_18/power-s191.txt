@@ -1,0 +1,640 @@
+287	ID:44	Rime started with address 0.18.116.44.0.44.44.44
+288	ID:29	Rime started with address 0.18.116.29.0.29.29.29
+295	ID:44	MAC 00:12:74:2c:00:2c:2c:2c Contiki-3.0 started. Node id is set to 44.
+297	ID:29	MAC 00:12:74:1d:00:1d:1d:1d Contiki-3.0 started. Node id is set to 29.
+298	ID:37	Rime started with address 0.18.116.37.0.37.37.37
+304	ID:44	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+305	ID:29	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+306	ID:37	MAC 00:12:74:25:00:25:25:25 Contiki-3.0 started. Node id is set to 37.
+315	ID:37	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+315	ID:44	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742c:002c:2c2c
+316	ID:29	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741d:001d:1d1d
+319	ID:29	Starting 'UDP client process'
+319	ID:44	Starting 'UDP client process' 'collect common process'
+321	ID:29	UDP client process started
+322	ID:44	UDP client process started
+326	ID:29	Client IPv6 addresses: aaaa::212:741d:1d:1d1d
+326	ID:37	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7425:0025:2525
+327	ID:44	Client IPv6 addresses: aaaa::212:742c:2c:2c2c
+329	ID:23	Rime started with address 0.18.116.23.0.23.23.23
+329	ID:29	fe80::212:741d:1d:1d1d
+330	ID:44	fe80::212:742c:2c:2c2c
+330	ID:37	Starting 'UDP client process' 'collect common process'
+333	ID:37	UDP client process started
+334	ID:29	Created a connection with the server :: local/remote port 8765/5678
+335	ID:44	Created a connection with the server :: local/remote port 8775/5688
+338	ID:23	MAC 00:12:74:17:00:17:17:17 Contiki-3.0 started. Node id is set to 23.
+338	ID:37	Client IPv6 addresses: aaaa::212:7425:25:2525
+341	ID:37	fe80::212:7425:25:2525
+346	ID:23	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+346	ID:37	Created a connection with the server :: local/remote port 8775/5688
+352	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+357	ID:23	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7417:0017:1717
+361	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.0 started. Node id is set to 3.
+361	ID:23	Starting 'UDP client process' 'collect common process'
+364	ID:23	UDP client process started
+369	ID:23	Client IPv6 addresses: aaaa::212:7417:17:1717
+369	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+372	ID:23	fe80::212:7417:17:1717
+376	ID:16	Rime started with address 0.18.116.16.0.16.16.16
+377	ID:23	Created a connection with the server :: local/remote port 8775/5688
+378	ID:40	Rime started with address 0.18.116.40.0.40.40.40
+380	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+384	ID:3	Starting 'UDP client process' 'collect common process'
+384	ID:16	MAC 00:12:74:10:00:10:10:10 Contiki-3.0 started. Node id is set to 16.
+386	ID:40	MAC 00:12:74:28:00:28:28:28 Contiki-3.0 started. Node id is set to 40.
+387	ID:3	UDP client process started
+391	ID:3	Client IPv6 addresses: aaaa::212:7403:3:303
+393	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+394	ID:3	fe80::212:7403:3:303
+395	ID:40	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+400	ID:3	Created a connection with the server :: local/remote port 8775/5688
+404	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7410:0010:1010
+406	ID:40	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7428:0028:2828
+407	ID:43	Rime started with address 0.18.116.43.0.43.43.43
+408	ID:16	Starting 'UDP client process' 'collect common process'
+410	ID:40	Starting 'UDP client process' 'collect common process'
+411	ID:16	UDP client process started
+413	ID:40	UDP client process started
+415	ID:43	MAC 00:12:74:2b:00:2b:2b:2b Contiki-3.0 started. Node id is set to 43.
+416	ID:16	Client IPv6 addresses: aaaa::212:7410:10:1010
+417	ID:15	Rime started with address 0.18.116.15.0.15.15.15
+418	ID:40	Client IPv6 addresses: aaaa::212:7428:28:2828
+419	ID:16	fe80::212:7410:10:1010
+421	ID:40	fe80::212:7428:28:2828
+424	ID:41	Rime started with address 0.18.116.41.0.41.41.41
+424	ID:43	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+424	ID:16	Created a connection with the server :: local/remote port 8775/5688
+426	ID:15	MAC 00:12:74:0f:00:0f:0f:0f Contiki-3.0 started. Node id is set to 15.
+426	ID:40	Created a connection with the server :: local/remote port 8775/5688
+432	ID:41	MAC 00:12:74:29:00:29:29:29 Contiki-3.0 started. Node id is set to 41.
+434	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+435	ID:43	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742b:002b:2b2b
+439	ID:38	Rime started with address 0.18.116.38.0.38.38.38
+439	ID:43	Starting 'UDP client process' 'collect common process'
+441	ID:41	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+442	ID:43	UDP client process started
+444	ID:34	Rime started with address 0.18.116.34.0.34.34.34
+445	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740f:000f:0f0f
+447	ID:43	Client IPv6 addresses: aaaa::212:742b:2b:2b2b
+447	ID:38	MAC 00:12:74:26:00:26:26:26 Contiki-3.0 started. Node id is set to 38.
+449	ID:15	Starting 'UDP client process' 'collect common process'
+450	ID:43	fe80::212:742b:2b:2b2b
+452	ID:15	UDP client process started
+452	ID:41	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7429:0029:2929
+453	ID:34	MAC 00:12:74:22:00:22:22:22 Contiki-3.0 started. Node id is set to 34.
+455	ID:43	Created a connection with the server :: local/remote port 8775/5688
+456	ID:41	Starting 'UDP client process' 'collect common process'
+456	ID:38	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+456	ID:15	Client IPv6 addresses: aaaa::212:740f:f:f0f
+459	ID:41	UDP client process started
+459	ID:15	fe80::212:740f:f:f0f
+461	ID:34	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+464	ID:41	Client IPv6 addresses: aaaa::212:7429:29:2929
+465	ID:15	Created a connection with the server :: local/remote port 8775/5688
+467	ID:41	fe80::212:7429:29:2929
+467	ID:38	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7426:0026:2626
+471	ID:38	Starting 'UDP client process' 'collect common process'
+472	ID:41	Created a connection with the server :: local/remote port 8775/5688
+473	ID:34	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7422:0022:2222
+474	ID:38	UDP client process started
+476	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+477	ID:34	Starting 'UDP client process' 'collect common process'
+479	ID:38	Client IPv6 addresses: aaaa::212:7426:26:2626
+479	ID:34	UDP client process started
+482	ID:38	fe80::212:7426:26:2626
+484	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.0 started. Node id is set to 11.
+484	ID:34	Client IPv6 addresses: aaaa::212:7422:22:2222
+487	ID:38	Created a connection with the server :: local/remote port 8775/5688
+487	ID:34	fe80::212:7422:22:2222
+493	ID:34	Created a connection with the server :: local/remote port 8775/5688
+493	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+499	ID:30	Rime started with address 0.18.116.30.0.30.30.30
+504	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+506	ID:11	Starting 'UDP client process'
+506	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+508	ID:30	MAC 00:12:74:1e:00:1e:1e:1e Contiki-3.0 started. Node id is set to 30.
+508	ID:11	UDP client process started
+513	ID:11	Client IPv6 addresses: aaaa::212:740b:b:b0b
+514	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-3.0 started. Node id is set to 9.
+516	ID:11	fe80::212:740b:b:b0b
+516	ID:30	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+521	ID:11	Created a connection with the server :: local/remote port 8765/5678
+523	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+528	ID:30	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741e:001e:1e1e
+532	ID:30	Starting 'UDP client process' 'collect common process'
+534	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+534	ID:30	UDP client process started
+538	ID:9	Starting 'UDP client process' 'collect common process'
+539	ID:30	Client IPv6 addresses: aaaa::212:741e:1e:1e1e
+540	ID:9	UDP client process started
+542	ID:30	fe80::212:741e:1e:1e1e
+544	ID:32	Rime started with address 0.18.116.32.0.32.32.32
+545	ID:9	Client IPv6 addresses: aaaa::212:7409:9:909
+548	ID:30	Created a connection with the server :: local/remote port 8775/5688
+548	ID:9	fe80::212:7409:9:909
+553	ID:9	Created a connection with the server :: local/remote port 8775/5688
+553	ID:32	MAC 00:12:74:20:00:20:20:20 Contiki-3.0 started. Node id is set to 32.
+562	ID:32	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+573	ID:32	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7420:0020:2020
+575	ID:32	Starting 'UDP client process'
+576	ID:33	Rime started with address 0.18.116.33.0.33.33.33
+578	ID:32	UDP client process started
+580	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+582	ID:32	Client IPv6 addresses: aaaa::212:7420:20:2020
+585	ID:33	MAC 00:12:74:21:00:21:21:21 Contiki-3.0 started. Node id is set to 33.
+585	ID:32	fe80::212:7420:20:2020
+588	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.0 started. Node id is set to 2.
+591	ID:32	Created a connection with the server :: local/remote port 8765/5678
+592	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+594	ID:33	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+597	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+599	ID:25	Rime started with address 0.18.116.25.0.25.25.25
+600	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.0 started. Node id is set to 1.
+600	ID:31	Rime started with address 0.18.116.31.0.31.31.31
+605	ID:33	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7421:0021:2121
+608	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+608	ID:25	MAC 00:12:74:19:00:19:19:19 Contiki-3.0 started. Node id is set to 25.
+608	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+609	ID:33	Starting 'UDP client process' 'collect common process'
+609	ID:31	MAC 00:12:74:1f:00:1f:1f:1f Contiki-3.0 started. Node id is set to 31.
+612	ID:2	Starting 'UDP client process' 'collect common process'
+612	ID:33	UDP client process started
+614	ID:2	UDP client process started
+616	ID:33	Client IPv6 addresses: aaaa::212:7421:21:2121
+617	ID:25	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+618	ID:31	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+619	ID:2	Client IPv6 addresses: aaaa::212:7402:2:202
+619	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+620	ID:33	fe80::212:7421:21:2121
+622	ID:2	fe80::212:7402:2:202
+623	ID:1	Starting 'UDP server process' 'collect common process'
+624	ID:1	I am sink!
+625	ID:33	Created a connection with the server :: local/remote port 8775/5688
+626	ID:1	UDP server started
+627	ID:2	Created a connection with the server :: local/remote port 8775/5688
+628	ID:25	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7419:0019:1919
+629	ID:31	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741f:001f:1f1f
+630	ID:1	created a new RPL dag
+632	ID:25	Starting 'UDP client process' 'collect common process'
+633	ID:31	Starting 'UDP client process' 'collect common process'
+634	ID:1	Server IPv6 addresses: aaaa::212:7401:1:101
+635	ID:25	UDP client process started
+635	ID:1	aaaa::1
+636	ID:31	UDP client process started
+638	ID:1	fe80::212:7401:1:101
+639	ID:25	Client IPv6 addresses: aaaa::212:7419:19:1919
+641	ID:31	Client IPv6 addresses: aaaa::212:741f:1f:1f1f
+643	ID:25	fe80::212:7419:19:1919
+644	ID:31	fe80::212:741f:1f:1f1f
+644	ID:47	Rime started with address 0.18.116.47.0.47.47.47
+644	ID:1	Created a server connection with remote address :: local/remote port 5688/8775
+648	ID:25	Created a connection with the server :: local/remote port 8775/5688
+649	ID:31	Created a connection with the server :: local/remote port 8775/5688
+653	ID:47	MAC 00:12:74:2f:00:2f:2f:2f Contiki-3.0 started. Node id is set to 47.
+661	ID:47	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+663	ID:45	Rime started with address 0.18.116.45.0.45.45.45
+672	ID:45	MAC 00:12:74:2d:00:2d:2d:2d Contiki-3.0 started. Node id is set to 45.
+673	ID:47	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742f:002f:2f2f
+675	ID:47	Starting 'UDP client process'
+677	ID:47	UDP client process started
+680	ID:45	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+682	ID:47	Client IPv6 addresses: aaaa::212:742f:2f:2f2f
+685	ID:47	fe80::212:742f:2f:2f2f
+690	ID:47	Created a connection with the server :: local/remote port 8765/5678
+692	ID:45	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742d:002d:2d2d
+696	ID:45	Starting 'UDP client process' 'collect common process'
+697	ID:13	Rime started with address 0.18.116.13.0.13.13.13
+698	ID:45	UDP client process started
+703	ID:45	Client IPv6 addresses: aaaa::212:742d:2d:2d2d
+706	ID:13	MAC 00:12:74:0d:00:0d:0d:0d Contiki-3.0 started. Node id is set to 13.
+706	ID:45	fe80::212:742d:2d:2d2d
+712	ID:45	Created a connection with the server :: local/remote port 8775/5688
+714	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+725	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740d:000d:0d0d
+729	ID:13	Starting 'UDP client process' 'collect common process'
+732	ID:13	UDP client process started
+736	ID:13	Client IPv6 addresses: aaaa::212:740d:d:d0d
+739	ID:13	fe80::212:740d:d:d0d
+744	ID:13	Created a connection with the server :: local/remote port 8775/5688
+746	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+754	ID:17	Rime started with address 0.18.116.17.0.17.17.17
+754	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-3.0 started. Node id is set to 7.
+763	ID:17	MAC 00:12:74:11:00:11:11:11 Contiki-3.0 started. Node id is set to 17.
+763	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+771	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+774	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+778	ID:7	Starting 'UDP client process' 'collect common process'
+780	ID:7	UDP client process started
+783	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7411:0011:1111
+785	ID:7	Client IPv6 addresses: aaaa::212:7407:7:707
+786	ID:17	Starting 'UDP client process' 'collect common process'
+788	ID:7	fe80::212:7407:7:707
+789	ID:17	UDP client process started
+793	ID:7	Created a connection with the server :: local/remote port 8775/5688
+794	ID:17	Client IPv6 addresses: aaaa::212:7411:11:1111
+797	ID:17	fe80::212:7411:11:1111
+798	ID:20	Rime started with address 0.18.116.20.0.20.20.20
+802	ID:17	Created a connection with the server :: local/remote port 8775/5688
+806	ID:20	MAC 00:12:74:14:00:14:14:14 Contiki-3.0 started. Node id is set to 20.
+810	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+815	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+818	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.0 started. Node id is set to 10.
+826	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7414:0014:1414
+827	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+828	ID:20	Starting 'UDP client process'
+830	ID:42	Rime started with address 0.18.116.42.0.42.42.42
+831	ID:20	UDP client process started
+835	ID:20	Client IPv6 addresses: aaaa::212:7414:14:1414
+836	ID:18	Rime started with address 0.18.116.18.0.18.18.18
+838	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+838	ID:42	MAC 00:12:74:2a:00:2a:2a:2a Contiki-3.0 started. Node id is set to 42.
+839	ID:20	fe80::212:7414:14:1414
+842	ID:10	Starting 'UDP client process' 'collect common process'
+844	ID:20	Created a connection with the server :: local/remote port 8765/5678
+844	ID:10	UDP client process started
+845	ID:18	MAC 00:12:74:12:00:12:12:12 Contiki-3.0 started. Node id is set to 18.
+847	ID:42	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+849	ID:10	Client IPv6 addresses: aaaa::212:740a:a:a0a
+852	ID:10	fe80::212:740a:a:a0a
+853	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+853	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+857	ID:10	Created a connection with the server :: local/remote port 8775/5688
+858	ID:42	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742a:002a:2a2a
+860	ID:42	Starting 'UDP client process'
+862	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-3.0 started. Node id is set to 6.
+863	ID:42	UDP client process started
+865	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7412:0012:1212
+868	ID:42	Client IPv6 addresses: aaaa::212:742a:2a:2a2a
+868	ID:18	Starting 'UDP client process' 'collect common process'
+870	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+871	ID:42	fe80::212:742a:2a:2a2a
+871	ID:18	UDP client process started
+876	ID:18	Client IPv6 addresses: aaaa::212:7412:12:1212
+876	ID:42	Created a connection with the server :: local/remote port 8765/5678
+879	ID:18	fe80::212:7412:12:1212
+881	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+884	ID:18	Created a connection with the server :: local/remote port 8775/5688
+885	ID:6	Starting 'UDP client process' 'collect common process'
+888	ID:6	UDP client process started
+892	ID:6	Client IPv6 addresses: aaaa::212:7406:6:606
+895	ID:6	fe80::212:7406:6:606
+901	ID:6	Created a connection with the server :: local/remote port 8775/5688
+972	ID:27	Rime started with address 0.18.116.27.0.27.27.27
+973	ID:19	Rime started with address 0.18.116.19.0.19.19.19
+981	ID:27	MAC 00:12:74:1b:00:1b:1b:1b Contiki-3.0 started. Node id is set to 27.
+982	ID:19	MAC 00:12:74:13:00:13:13:13 Contiki-3.0 started. Node id is set to 19.
+989	ID:27	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+989	ID:24	Rime started with address 0.18.116.24.0.24.24.24
+991	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+998	ID:24	MAC 00:12:74:18:00:18:18:18 Contiki-3.0 started. Node id is set to 24.
+1001	ID:27	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741b:001b:1b1b
+1002	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7413:0013:1313
+1003	ID:27	Starting 'UDP client process'
+1004	ID:19	Starting 'UDP client process'
+1005	ID:27	UDP client process started
+1006	ID:19	UDP client process started
+1007	ID:24	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1008	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+1010	ID:27	Client IPv6 addresses: aaaa::212:741b:1b:1b1b
+1011	ID:19	Client IPv6 addresses: aaaa::212:7413:13:1313
+1013	ID:27	fe80::212:741b:1b:1b1b
+1014	ID:19	fe80::212:7413:13:1313
+1016	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.0 started. Node id is set to 5.
+1018	ID:24	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7418:0018:1818
+1018	ID:27	Created a connection with the server :: local/remote port 8765/5678
+1020	ID:35	Rime started with address 0.18.116.35.0.35.35.35
+1020	ID:19	Created a connection with the server :: local/remote port 8765/5678
+1022	ID:24	Starting 'UDP client process' 'collect common process'
+1025	ID:24	UDP client process started
+1025	ID:48	Rime started with address 0.18.116.48.0.48.48.48
+1025	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1028	ID:35	MAC 00:12:74:23:00:23:23:23 Contiki-3.0 started. Node id is set to 35.
+1029	ID:24	Client IPv6 addresses: aaaa::212:7418:18:1818
+1032	ID:24	fe80::212:7418:18:1818
+1033	ID:48	MAC 00:12:74:30:00:30:30:30 Contiki-3.0 started. Node id is set to 48.
+1036	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+1037	ID:35	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1038	ID:24	Created a connection with the server :: local/remote port 8775/5688
+1039	ID:5	Starting 'UDP client process' 'collect common process'
+1042	ID:48	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1042	ID:5	UDP client process started
+1043	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+1047	ID:5	Client IPv6 addresses: aaaa::212:7405:5:505
+1048	ID:35	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7423:0023:2323
+1050	ID:5	fe80::212:7405:5:505
+1052	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-3.0 started. Node id is set to 8.
+1052	ID:35	Starting 'UDP client process' 'collect common process'
+1053	ID:48	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7430:0030:3030
+1055	ID:35	UDP client process started
+1055	ID:5	Created a connection with the server :: local/remote port 8775/5688
+1055	ID:48	Starting 'UDP client process'
+1058	ID:48	UDP client process started
+1060	ID:35	Client IPv6 addresses: aaaa::212:7423:23:2323
+1060	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1062	ID:48	Client IPv6 addresses: aaaa::212:7430:30:3030
+1063	ID:35	fe80::212:7423:23:2323
+1066	ID:48	fe80::212:7430:30:3030
+1068	ID:35	Created a connection with the server :: local/remote port 8775/5688
+1071	ID:48	Created a connection with the server :: local/remote port 8765/5678
+1071	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+1072	ID:28	Rime started with address 0.18.116.28.0.28.28.28
+1075	ID:8	Starting 'UDP client process' 'collect common process'
+1077	ID:36	Rime started with address 0.18.116.36.0.36.36.36
+1078	ID:8	UDP client process started
+1081	ID:28	MAC 00:12:74:1c:00:1c:1c:1c Contiki-3.0 started. Node id is set to 28.
+1082	ID:8	Client IPv6 addresses: aaaa::212:7408:8:808
+1085	ID:8	fe80::212:7408:8:808
+1086	ID:36	MAC 00:12:74:24:00:24:24:24 Contiki-3.0 started. Node id is set to 36.
+1089	ID:28	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1090	ID:22	Rime started with address 0.18.116.22.0.22.22.22
+1091	ID:8	Created a connection with the server :: local/remote port 8775/5688
+1094	ID:36	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1099	ID:22	MAC 00:12:74:16:00:16:16:16 Contiki-3.0 started. Node id is set to 22.
+1101	ID:28	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741c:001c:1c1c
+1104	ID:28	Starting 'UDP client process' 'collect common process'
+1106	ID:36	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7424:0024:2424
+1107	ID:28	UDP client process started
+1107	ID:22	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1109	ID:36	Starting 'UDP client process' 'collect common process'
+1112	ID:28	Client IPv6 addresses: aaaa::212:741c:1c:1c1c
+1112	ID:36	UDP client process started
+1115	ID:28	fe80::212:741c:1c:1c1c
+1117	ID:36	Client IPv6 addresses: aaaa::212:7424:24:2424
+1118	ID:26	Rime started with address 0.18.116.26.0.26.26.26
+1119	ID:22	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7416:0016:1616
+1120	ID:36	fe80::212:7424:24:2424
+1121	ID:28	Created a connection with the server :: local/remote port 8775/5688
+1121	ID:22	Starting 'UDP client process'
+1123	ID:22	UDP client process started
+1125	ID:36	Created a connection with the server :: local/remote port 8775/5688
+1127	ID:26	MAC 00:12:74:1a:00:1a:1a:1a Contiki-3.0 started. Node id is set to 26.
+1128	ID:22	Client IPv6 addresses: aaaa::212:7416:16:1616
+1130	ID:12	Rime started with address 0.18.116.12.0.12.12.12
+1131	ID:22	fe80::212:7416:16:1616
+1135	ID:26	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1136	ID:22	Created a connection with the server :: local/remote port 8765/5678
+1138	ID:12	MAC 00:12:74:0c:00:0c:0c:0c Contiki-3.0 started. Node id is set to 12.
+1147	ID:26	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741a:001a:1a1a
+1147	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1150	ID:39	Rime started with address 0.18.116.39.0.39.39.39
+1150	ID:26	Starting 'UDP client process' 'collect common process'
+1153	ID:26	UDP client process started
+1158	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740c:000c:0c0c
+1158	ID:26	Client IPv6 addresses: aaaa::212:741a:1a:1a1a
+1158	ID:39	MAC 00:12:74:27:00:27:27:27 Contiki-3.0 started. Node id is set to 39.
+1161	ID:26	fe80::212:741a:1a:1a1a
+1162	ID:12	Starting 'UDP client process' 'collect common process'
+1165	ID:12	UDP client process started
+1167	ID:26	Created a connection with the server :: local/remote port 8775/5688
+1167	ID:39	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1167	ID:21	Rime started with address 0.18.116.21.0.21.21.21
+1169	ID:12	Client IPv6 addresses: aaaa::212:740c:c:c0c
+1172	ID:12	fe80::212:740c:c:c0c
+1176	ID:21	MAC 00:12:74:15:00:15:15:15 Contiki-3.0 started. Node id is set to 21.
+1177	ID:12	Created a connection with the server :: local/remote port 8775/5688
+1178	ID:39	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7427:0027:2727
+1182	ID:39	Starting 'UDP client process' 'collect common process'
+1185	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1185	ID:39	UDP client process started
+1190	ID:39	Client IPv6 addresses: aaaa::212:7427:27:2727
+1193	ID:39	fe80::212:7427:27:2727
+1196	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7415:0015:1515
+1198	ID:39	Created a connection with the server :: local/remote port 8775/5688
+1200	ID:21	Starting 'UDP client process' 'collect common process'
+1202	ID:21	UDP client process started
+1207	ID:21	Client IPv6 addresses: aaaa::212:7415:15:1515
+1210	ID:21	fe80::212:7415:15:1515
+1211	ID:46	Rime started with address 0.18.116.46.0.46.46.46
+1215	ID:14	Rime started with address 0.18.116.14.0.14.14.14
+1216	ID:21	Created a connection with the server :: local/remote port 8775/5688
+1220	ID:46	MAC 00:12:74:2e:00:2e:2e:2e Contiki-3.0 started. Node id is set to 46.
+1223	ID:14	MAC 00:12:74:0e:00:0e:0e:0e Contiki-3.0 started. Node id is set to 14.
+1228	ID:46	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1230	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+1232	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1239	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.0 started. Node id is set to 4.
+1240	ID:46	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742e:002e:2e2e
+1243	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740e:000e:0e0e
+1244	ID:46	Starting 'UDP client process' 'collect common process'
+1246	ID:46	UDP client process started
+1247	ID:14	Starting 'UDP client process' 'collect common process'
+1247	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+1249	ID:14	UDP client process started
+1251	ID:46	Client IPv6 addresses: aaaa::212:742e:2e:2e2e
+1254	ID:14	Client IPv6 addresses: aaaa::212:740e:e:e0e
+1254	ID:46	fe80::212:742e:2e:2e2e
+1257	ID:14	fe80::212:740e:e:e0e
+1258	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+1260	ID:46	Created a connection with the server :: local/remote port 8775/5688
+1262	ID:4	Starting 'UDP client process' 'collect common process'
+1262	ID:14	Created a connection with the server :: local/remote port 8775/5688
+1265	ID:4	UDP client process started
+1269	ID:4	Client IPv6 addresses: aaaa::212:7404:4:404
+1272	ID:4	fe80::212:7404:4:404
+1278	ID:4	Created a connection with the server :: local/remote port 8775/5688
+61946	ID:11	DATA send to 1 'Hello 1'
+61962	ID:11	ID:0 TS:7870 CPU:155337 LPM:1858271 TX:32955 RX:51180
+65462	ID:45	ID:0 TS:8294 CPU:252803 LPM:1866162 TX:14588 RX:48778
+65492	ID:1	ID:0 TS:8307 CPU:498850 LPM:1622670 TX:3265 RX:2121429
+65506	ID:1	30 0 64 0 11565 1 1 0 22 8292 0 7883 58317 455 1524 257 128 512 17 65 252 1 133 182 65535 65535 0 0 0 0
+65962	ID:16	ID:0 TS:8395 CPU:188203 LPM:1956168 TX:14474 RX:31360
+66318	ID:1	ID:0 TS:8413 CPU:504486 LPM:1644045 TX:3265 RX:2148503
+66332	ID:1	30 0 65 0 4112 1 2 0 22 8393 0 5864 61130 452 980 1285 256 768 10 65 252 1 189 182 65535 65535 0 0 0 0
+67655	ID:15	ID:0 TS:8607 CPU:288653 LPM:1909940 TX:13049 RX:58466
+68102	ID:1	ID:0 TS:8641 CPU:518710 LPM:1688117 TX:3265 RX:2206948
+68116	ID:1	30 0 67 0 3855 1 1 0 22 8604 0 9003 59685 407 1827 257 128 512 20 131 252 1 133 182 65535 65535 0 0 0 0
+68589	ID:19	DATA send to 1 'Hello 1'
+68605	ID:19	ID:0 TS:8657 CPU:160944 LPM:2053899 TX:26470 RX:57618
+68972	ID:5	ID:0 TS:8699 CPU:315219 LPM:1907048 TX:14498 RX:62301
+69504	ID:1	ID:0 TS:8821 CPU:533415 LPM:1719255 TX:3265 RX:2252911
+69519	ID:1	30 0 68 0 1285 1 1 0 22 8697 0 9834 59595 453 1946 257 128 534 20 131 252 1 189 182 65535 65535 0 0 0 0
+71136	ID:6	ID:0 TS:8996 CPU:319685 LPM:1978327 TX:95281 RX:70088
+71753	ID:28	ID:0 TS:9047 CPU:309637 LPM:2001552 TX:95485 RX:68604
+75301	ID:9	ID:0 TS:9574 CPU:313462 LPM:2132088 TX:18765 RX:65296
+75330	ID:1	ID:0 TS:9567 CPU:571466 LPM:1871602 TX:3265 RX:2443817
+75345	ID:1	30 0 74 0 2313 1 1 0 22 9572 0 4889 33313 293 1020 257 128 768 20 131 252 1 189 182 65535 65535 0 0 0 0
+75590	ID:23	ID:0 TS:9633 CPU:450064 LPM:2011033 TX:23840 RX:88172
+75849	ID:1	ID:0 TS:9633 CPU:576868 LPM:1883154 TX:3265 RX:2460818
+75864	ID:1	30 0 75 0 5911 1 1 0 22 9631 0 14047 62844 745 2755 257 128 560 20 131 252 1 189 182 65535 65535 0 0 0 0
+77497	ID:27	DATA send to 1 'Hello 1'
+77512	ID:27	ID:0 TS:9797 CPU:91555 LPM:2415018 TX:25619 RX:36269
+82271	ID:8	ID:0 TS:10397 CPU:237889 LPM:2417764 TX:14203 RX:46990
+82511	ID:1	ID:0 TS:10486 CPU:627204 LPM:2050455 TX:3265 RX:2679090
+82525	ID:1	30 0 81 0 2056 1 1 0 22 10395 0 3708 37777 221 734 257 128 512 10 131 252 1 133 182 65535 65535 0 0 0 0
+82968	ID:14	ID:0 TS:10464 CPU:460990 LPM:2212273 TX:60473 RX:85171
+84398	ID:10	ID:0 TS:10699 CPU:381959 LPM:2351128 TX:15092 RX:74303
+84427	ID:1	ID:0 TS:10731 CPU:639933 LPM:2100369 TX:3265 RX:2741895
+84442	ID:1	30 0 83 0 2570 1 1 0 22 10697 0 5959 36736 235 1160 257 128 768 20 131 252 1 189 182 65535 65535 0 0 0 0
+87893	ID:41	ID:0 TS:11196 CPU:412458 LPM:2447709 TX:50709 RX:79659
+87948	ID:31	ID:0 TS:11181 CPU:402820 LPM:2453481 TX:11103 RX:69307
+87978	ID:1	ID:0 TS:11185 CPU:666818 LPM:2189501 TX:3265 RX:2858253
+87993	ID:1	30 0 87 0 7967 1 1 0 22 11178 0 6285 38335 173 1082 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+89725	ID:35	ID:0 TS:11354 CPU:486510 LPM:2414022 TX:153127 RX:101941
+90065	ID:36	ID:0 TS:11391 CPU:435423 LPM:2474652 TX:28807 RX:84576
+90184	ID:37	ID:0 TS:11505 CPU:452111 LPM:2487145 TX:12721 RX:85802
+90307	ID:30	ID:0 TS:11495 CPU:400958 LPM:2535715 TX:12929 RX:80394
+90411	ID:1	ID:0 TS:11497 CPU:682840 LPM:2252960 TX:3265 RX:2937952
+90425	ID:1	30 0 89 0 7710 1 1 0 22 11493 0 6256 39620 202 1256 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+90532	ID:13	ID:0 TS:11499 CPU:534727 LPM:2402916 TX:81318 RX:92740
+90582	ID:18	ID:0 TS:11488 CPU:513818 LPM:2421014 TX:92471 RX:95978
+91256	ID:1	ID:0 TS:11605 CPU:689017 LPM:2274410 TX:3265 RX:2965652
+91270	ID:1	30 0 90 0 9509 1 1 0 22 11503 0 7056 38861 198 1340 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+92262	ID:1	ID:0 TS:11734 CPU:697078 LPM:2299253 TX:3265 RX:2998630
+92277	ID:1	30 0 91 0 9252 1 1 0 22 11388 0 6795 38666 450 1321 257 128 529 20 131 252 1 189 182 65535 65535 0 0 0 0
+92405	ID:46	ID:0 TS:11673 CPU:430392 LPM:2551597 TX:26453 RX:77759
+92839	ID:39	ID:0 TS:11736 CPU:457167 LPM:2541033 TX:105784 RX:85627
+94136	ID:25	ID:0 TS:11973 CPU:511450 LPM:2547196 TX:147579 RX:99073
+95062	ID:17	ID:0 TS:12071 CPU:471829 LPM:2612117 TX:16716 RX:94526
+95091	ID:1	ID:0 TS:12096 CPU:716543 LPM:2372246 TX:3265 RX:3091337
+95106	ID:1	30 0 94 0 4369 1 1 0 22 12069 0 7364 40814 261 1476 257 128 768 20 131 252 1 189 182 65535 65535 0 0 0 0
+95436	ID:1	ID:0 TS:12140 CPU:720084 LPM:2379979 TX:3265 RX:3102637
+95451	ID:1	30 0 94 0 6425 1 2 0 22 11969 0 7978 39799 2305 1547 10280 256 768 12 65 196 1 133 126 65535 65535 0 0 0 0
+98640	ID:40	ID:0 TS:12577 CPU:437578 LPM:2775589 TX:13795 RX:74285
+98669	ID:1	ID:0 TS:12554 CPU:740399 LPM:2465332 TX:3265 RX:3208582
+98684	ID:1	30 0 98 0 10280 1 1 0 22 12575 0 6828 43368 215 1160 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+98821	ID:29	DATA send to 1 'Hello 1'
+98837	ID:29	ID:0 TS:12614 CPU:214202 LPM:3013495 TX:61702 RX:66862
+99863	ID:42	DATA send to 1 'Hello 1'
+99879	ID:42	ID:0 TS:12678 CPU:242263 LPM:3001583 TX:42113 RX:71685
+100240	ID:2	ID:0 TS:12756 CPU:497234 LPM:2761491 TX:94138 RX:95229
+100347	ID:1	ID:0 TS:12769 CPU:755021 LPM:2505539 TX:3265 RX:3263562
+100362	ID:1	30 0 99 0 514 1 2 0 22 12754 0 7757 43148 1470 1487 3855 256 768 16 131 252 1 133 126 65535 65535 0 0 0 0
+100561	ID:21	ID:0 TS:12722 CPU:406412 LPM:2843571 TX:53221 RX:77118
+101003	ID:33	ID:0 TS:12855 CPU:471713 LPM:2812200 TX:10453 RX:90155
+101037	ID:1	ID:0 TS:12857 CPU:759975 LPM:2523133 TX:3265 RX:3286169
+101052	ID:1	30 0 100 0 8481 1 1 0 22 12853 0 7362 43940 163 1408 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+101224	ID:1	ID:0 TS:12881 CPU:761678 LPM:2527526 TX:3265 RX:3292276
+101239	ID:1	30 0 100 0 5397 1 2 0 22 12719 0 6339 44430 831 1204 3855 256 813 12 131 252 1 189 182 65535 65535 0 0 0 0
+102457	ID:26	ID:0 TS:12971 CPU:471756 LPM:2842035 TX:19718 RX:84683
+102873	ID:1	ID:0 TS:13092 CPU:776459 LPM:2566659 TX:3265 RX:3346324
+102888	ID:1	30 0 102 0 6682 1 1 0 22 12969 0 7362 44406 308 1323 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+106492	ID:32	DATA send to 1 'Hello 1'
+106507	ID:32	ID:0 TS:13563 CPU:325718 LPM:3144523 TX:62244 RX:94026
+106570	ID:4	ID:0 TS:13483 CPU:472218 LPM:2972089 TX:17746 RX:84206
+106791	ID:1	ID:0 TS:13593 CPU:801816 LPM:2669412 TX:3265 RX:3474715
+106806	ID:1	30 0 106 0 1028 1 1 0 22 13481 0 7370 46438 277 1315 257 128 768 20 131 252 1 189 182 65535 65535 0 0 0 0
+107999	ID:3	ID:0 TS:13779 CPU:544613 LPM:2975085 TX:14766 RX:97725
+108070	ID:1	ID:0 TS:13757 CPU:810622 LPM:2702416 TX:3265 RX:3516621
+108085	ID:1	30 0 107 0 771 1 1 0 22 13776 0 8501 46485 230 1526 257 128 768 20 131 252 1 133 182 65535 65535 0 0 0 0
+108548	ID:22	DATA send to 1 'Hello 1'
+108564	ID:22	ID:0 TS:13757 CPU:178074 LPM:3341982 TX:36169 RX:61250
+108737	ID:48	DATA send to 1 'Hello 1'
+108753	ID:48	ID:0 TS:13789 CPU:360901 LPM:3167093 TX:72672 RX:99662
+108757	ID:24	ID:0 TS:13794 CPU:534157 LPM:2989861 TX:48309 RX:91034
+108917	ID:20	DATA send to 1 'Hello 1'
+108932	ID:20	ID:0 TS:13841 CPU:299394 LPM:3241884 TX:60439 RX:86541
+109278	ID:38	ID:0 TS:13931 CPU:532011 LPM:3026976 TX:22773 RX:90539
+109402	ID:1	ID:0 TS:13928 CPU:821284 LPM:2735279 TX:3265 RX:3560257
+109417	ID:1	30 0 108 0 9766 1 1 0 22 13929 0 8304 47296 355 1414 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+110264	ID:1	ID:0 TS:14038 CPU:827793 LPM:2756945 TX:3265 RX:3588495
+110278	ID:1	30 0 109 0 6168 1 2 0 22 13791 0 8336 46716 754 1422 5911 268 818 18 131 252 1 189 182 65535 65535 0 0 0 0
+110473	ID:43	ID:0 TS:14089 CPU:489073 LPM:3109992 TX:17071 RX:82930
+110506	ID:1	ID:0 TS:14069 CPU:829803 LPM:2762867 TX:3265 RX:3596440
+110521	ID:1	30 0 109 0 11051 1 1 0 22 14086 0 7633 48593 266 1295 257 128 768 20 131 252 1 189 182 65535 65535 0 0 0 0
+111180	ID:12	ID:0 TS:14086 CPU:585140 LPM:3013381 TX:118933 RX:107761
+111592	ID:7	ID:0 TS:14188 CPU:349642 LPM:3274035 TX:18538 RX:64867
+111621	ID:1	ID:0 TS:14212 CPU:836515 LPM:2792634 TX:3265 RX:3632992
+111636	ID:1	30 0 111 0 1799 1 1 0 22 14186 0 5454 51156 289 1013 257 128 698 11 131 252 1 189 182 65535 65535 0 0 0 0
+113142	ID:44	ID:0 TS:14445 CPU:622962 LPM:3067629 TX:17117 RX:117260
+113171	ID:1	ID:0 TS:14410 CPU:851691 LPM:2828105 TX:3265 RX:3683777
+113186	ID:1	30 0 112 0 11308 1 1 0 22 14443 0 9725 47931 267 1832 257 128 512 20 131 252 1 189 182 65535 65535 0 0 0 0
+115966	ID:47	DATA send to 1 'Hello 1'
+115982	ID:47	ID:0 TS:14763 CPU:304667 LPM:3472492 TX:59818 RX:80924
+117494	ID:34	ID:0 TS:14982 CPU:729678 LPM:3098001 TX:150864 RX:131250
+122706	ID:10	ID:0 TS:15603 CPU:588364 LPM:3397300 TX:26101 RX:99430
+122797	ID:34	ID:0 TS:15661 CPU:760516 LPM:3240597 TX:152192 RX:134096
+122831	ID:45	ID:0 TS:15638 CPU:521503 LPM:3473756 TX:14690 RX:85846
+122959	ID:1	ID:0 TS:15663 CPU:925397 LPM:3074349 TX:3265 RX:4004505
+122974	ID:1	30 0 122 0 11565 2 1 0 22 15635 0 8397 50237 3 1158 257 128 512 17 131 187 1 124 117 65535 65535 0 0 0 0
+124544	ID:30	ID:0 TS:15878 CPU:592074 LPM:3464208 TX:14871 RX:113011
+124903	ID:1	ID:0 TS:15912 CPU:941342 LPM:3121918 TX:3265 RX:4068207
+124918	ID:1	30 0 124 0 7710 2 1 0 22 15876 0 11943 58030 121 2038 257 128 512 20 131 194 1 131 124 65535 65535 0 0 0 0
+125024	ID:3	ID:0 TS:15958 CPU:651825 LPM:3424624 TX:14868 RX:113935
+126132	ID:1	ID:0 TS:16069 CPU:955608 LPM:3147803 TX:3265 RX:4108473
+126147	ID:1	30 0 125 0 771 2 1 0 22 15956 0 13402 56192 12 2026 257 128 742 20 131 187 1 124 117 65535 65535 0 0 0 0
+126667	ID:20	DATA send to 1 'Hello 2'
+126683	ID:20	ID:0 TS:16113 CPU:364104 LPM:3758549 TX:72526 RX:101104
+126689	ID:11	DATA send to 1 'Hello 2'
+126704	ID:11	ID:0 TS:16157 CPU:368013 LPM:3766149 TX:69292 RX:90602
+131861	ID:9	ID:0 TS:16813 CPU:606562 LPM:3688330 TX:18867 RX:102999
+131891	ID:1	ID:0 TS:16806 CPU:999063 LPM:3292544 TX:3265 RX:4297189
+131906	ID:1	30 0 131 0 2313 2 1 0 22 16811 0 9159 48632 3 1178 257 128 742 20 262 194 1 131 124 65535 65535 0 0 0 0
+132830	ID:31	ID:0 TS:16925 CPU:638110 LPM:3685801 TX:11205 RX:103463
+132861	ID:1	ID:0 TS:16930 CPU:1006380 LPM:3316913 TX:3265 RX:4328941
+132875	ID:1	30 0 132 0 7967 2 1 0 22 16923 0 7352 38510 3 1067 257 128 512 20 262 194 1 131 124 65535 65535 0 0 0 0
+134699	ID:28	ID:0 TS:17104 CPU:502004 LPM:3867124 TX:103308 RX:93601
+138637	ID:18	ID:0 TS:17638 CPU:835077 LPM:3671154 TX:134806 RX:139073
+138826	ID:21	ID:0 TS:17620 CPU:585777 LPM:3915644 TX:71736 RX:105400
+138971	ID:1	ID:0 TS:17712 CPU:1045219 LPM:3477852 TX:3265 RX:4529160
+138985	ID:1	30 0 138 0 5397 2 2 0 22 17617 0 5604 33502 578 883 3855 256 859 14 131 131 1 68 61 65535 65535 0 0 0 0
+142843	ID:15	ID:0 TS:18231 CPU:699795 LPM:3957266 TX:14614 RX:110802
+142873	ID:1	ID:0 TS:18212 CPU:1076599 LPM:3574031 TX:3265 RX:4657024
+142888	ID:1	30 0 142 0 3855 2 1 0 22 18228 0 12848 63978 48 1635 257 128 512 20 262 187 1 124 117 65535 65535 0 0 0 0
+142977	ID:29	DATA send to 1 'Hello 2'
+142993	ID:29	ID:0 TS:18266 CPU:329495 LPM:4344556 TX:91288 RX:92221
+143526	ID:17	ID:0 TS:18274 CPU:774656 LPM:3894084 TX:17033 RX:141367
+143728	ID:1	ID:0 TS:18321 CPU:1082752 LPM:3595834 TX:3265 RX:4685049
+143743	ID:1	30 0 143 0 4369 2 1 0 22 18272 0 9463 40061 9 1463 257 128 742 20 262 194 1 131 124 65535 65535 0 0 0 0
+143864	ID:25	ID:0 TS:18338 CPU:701503 LPM:3983191 TX:157604 RX:121088
+144550	ID:48	DATA send to 1 'Hello 2'
+144566	ID:48	ID:0 TS:18373 CPU:497701 LPM:4203173 TX:96244 RX:132093
+145718	ID:38	ID:0 TS:18596 CPU:736480 LPM:4014054 TX:25221 RX:114165
+146400	ID:1	ID:0 TS:18663 CPU:1103167 LPM:3662786 TX:3265 RX:4772614
+146415	ID:1	30 0 145 0 9766 2 1 0 22 18593 0 12774 61692 153 1463 257 128 512 20 262 194 1 19 212 65535 65535 0 0 0 0
+147602	ID:1	ID:0 TS:18817 CPU:1114142 LPM:3691104 TX:3265 RX:4811999
+147617	ID:1	30 0 147 0 6425 2 2 0 22 18335 0 5940 44874 313 688 10280 256 819 13 131 233 1 170 219 65535 65535 0 0 0 0
+147923	ID:16	ID:0 TS:18886 CPU:476599 LPM:4347814 TX:18762 RX:72569
+148074	ID:1	ID:0 TS:18878 CPU:1117111 LPM:3703573 TX:3265 RX:4827465
+148089	ID:1	30 0 147 0 4112 2 2 0 22 18884 0 4506 37369 67 643 1285 256 793 10 262 194 1 131 124 65535 65535 0 0 0 0
+151319	ID:40	ID:0 TS:19320 CPU:728706 LPM:4207028 TX:21114 RX:106660
+151348	ID:1	ID:0 TS:19297 CPU:1137431 LPM:3790305 TX:3265 RX:4934755
+151363	ID:1	30 0 150 0 10280 2 1 0 22 19318 0 9097 44732 228 1011 257 128 537 20 262 194 1 131 180 65535 65535 0 0 0 0
+153169	ID:47	DATA send to 1 'Hello 2'
+153185	ID:47	ID:0 TS:19525 CPU:436368 LPM:4559161 TX:89795 RX:107899
+153530	ID:2	ID:0 TS:19578 CPU:749880 LPM:4251354 TX:111787 RX:131526
+153597	ID:1	ID:0 TS:19585 CPU:1154176 LPM:3847066 TX:3265 RX:5008430
+153612	ID:1	30 0 153 0 514 2 2 0 22 19575 0 7895 46558 551 1135 3855 256 768 16 131 173 1 110 103 65535 65535 0 0 0 0
+157790	ID:35	ID:0 TS:20066 CPU:798464 LPM:4327838 TX:196558 RX:153244
+158565	ID:44	ID:0 TS:20260 CPU:918195 LPM:4257830 TX:17219 RX:161891
+159230	ID:1	ID:0 TS:20306 CPU:1195119 LPM:3990277 TX:3265 RX:5193003
+159244	ID:1	30 0 158 0 11308 2 1 0 22 20257 0 9224 37193 3 1393 257 128 512 20 262 194 1 219 212 65535 65535 0 0 0 0
+159515	ID:24	ID:0 TS:20291 CPU:805500 LPM:4378419 TX:52834 RX:127090
+162029	ID:8	ID:0 TS:20606 CPU:507357 LPM:4755961 TX:15921 RX:88227
+162214	ID:1	ID:0 TS:20688 CPU:1215790 LPM:4067174 TX:3265 RX:5290797
+162228	ID:1	30 0 161 0 2056 2 1 0 22 20604 0 4210 36534 26 644 257 128 512 11 262 187 1 124 117 65535 65535 0 0 0 0
+163140	ID:1	ID:0 TS:20806 CPU:1225813 LPM:4087410 TX:3265 RX:5321124
+163155	ID:1	30 0 162 0 6168 2 2 0 22 20289 0 8477 43392 141 1125 5911 268 841 18 262 194 1 131 124 65535 65535 0 0 0 0
+164291	ID:36	ID:0 TS:20891 CPU:832799 LPM:4504421 TX:37717 RX:141000
+165311	ID:1	ID:0 TS:21084 CPU:1240447 LPM:4143751 TX:3265 RX:5392273
+165326	ID:1	30 0 164 0 9252 2 1 0 22 20889 0 12418 63430 278 1763 257 128 565 20 262 194 1 131 180 65535 65535 0 0 0 0
+165707	ID:5	ID:0 TS:21081 CPU:869045 LPM:4516248 TX:16742 RX:141076
+165973	ID:6	ID:0 TS:21135 CPU:617980 LPM:4780714 TX:128640 RX:111503
+166137	ID:1	ID:0 TS:21190 CPU:1245721 LPM:4165485 TX:3265 RX:5419334
+166151	ID:1	30 0 165 0 1285 2 1 0 22 21079 0 8653 40768 35 1230 257 128 527 20 262 194 1 131 180 65535 65535 0 0 0 0
+166663	ID:32	DATA send to 1 'Hello 2'
+166680	ID:32	ID:0 TS:21265 CPU:548113 LPM:4892755 TX:99623 RX:143206
+167518	ID:13	ID:0 TS:21353 CPU:1001978 LPM:4452899 TX:102205 RX:157064
+169200	ID:37	ID:0 TS:21619 CPU:944514 LPM:4578688 TX:12823 RX:161139
+169235	ID:4	ID:0 TS:21504 CPU:839057 LPM:4654081 TX:54440 RX:131538
+169585	ID:1	ID:0 TS:21631 CPU:1267324 LPM:4256605 TX:3265 RX:5532311
+169599	ID:1	30 0 169 0 9509 2 1 0 22 21617 0 15386 65360 3 2353 257 128 512 20 262 194 1 131 180 65535 65535 0 0 0 0
+169740	ID:22	DATA send to 1 'Hello 2'
+169756	ID:22	ID:0 TS:21589 CPU:311608 LPM:5212820 TX:64942 RX:85962
+172192	ID:43	ID:0 TS:21988 CPU:838645 LPM:4778582 TX:33287 RX:129789
+172655	ID:1	ID:0 TS:22024 CPU:1289237 LPM:4335074 TX:3265 RX:5632922
+172670	ID:1	30 0 172 0 11051 2 1 0 22 21986 0 10924 52143 506 1463 257 128 742 20 262 194 1 131 180 65535 65535 0 0 0 0
+173678	ID:46	ID:0 TS:22076 CPU:885679 LPM:4753723 TX:59280 RX:136422
+173826	ID:7	ID:0 TS:22154 CPU:564526 LPM:5093811 TX:22491 RX:92904
+173856	ID:1	ID:0 TS:22178 CPU:1294871 LPM:4368730 TX:3265 RX:5672290
+173871	ID:1	30 0 173 0 1799 2 1 0 22 22152 0 6715 56868 123 876 257 128 679 12 262 194 1 131 124 65535 65535 0 0 0 0
+174819	ID:19	DATA send to 1 'Hello 2'
+174835	ID:19	ID:0 TS:22254 CPU:519444 LPM:5174630 TX:82714 RX:133638
+175111	ID:33	ID:0 TS:22340 CPU:878717 LPM:4828519 TX:12487 RX:149991
+175528	ID:26	ID:0 TS:22324 CPU:877414 LPM:4825784 TX:19820 RX:144351
+175581	ID:1	ID:0 TS:22399 CPU:1310773 LPM:4409202 TX:3265 RX:5728799
+175596	ID:1	30 0 175 0 8481 2 1 0 22 22338 0 12718 63009 63 1857 257 128 512 20 262 194 1 131 124 65535 65535 0 0 0 0
+176111	ID:14	ID:0 TS:22386 CPU:1029975 LPM:4688627 TX:110727 RX:164682
+176241	ID:1	ID:0 TS:22483 CPU:1316820 LPM:4424748 TX:3265 RX:5750436
+176256	ID:1	30 0 175 0 6682 2 1 0 22 22322 0 12676 61992 3 1857 257 128 512 20 262 194 1 131 124 65535 65535 0 0 0 0
+176414	ID:39	ID:0 TS:22434 CPU:862719 LPM:4868422 TX:161424 RX:155326
