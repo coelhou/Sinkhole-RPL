@@ -1,0 +1,55 @@
+
+== Classification report: LogisticRegression ==
+              precision    recall  f1-score   support
+
+           0     0.9466    0.8870    0.9158       460
+           1     0.5938    0.7677    0.6696        99
+
+    accuracy                         0.8658       559
+   macro avg     0.7702    0.8273    0.7927       559
+weighted avg     0.8841    0.8658    0.8722       559
+
+
+== Classification report: KNN ==
+              precision    recall  f1-score   support
+
+           0     0.9108    0.9761    0.9423       460
+           1     0.8333    0.5556    0.6667        99
+
+    accuracy                         0.9016       559
+   macro avg     0.8720    0.7658    0.8045       559
+weighted avg     0.8970    0.9016    0.8935       559
+
+
+== Classification report: RandomForest ==
+              precision    recall  f1-score   support
+
+           0     0.9113    0.9826    0.9456       460
+           1     0.8730    0.5556    0.6790        99
+
+    accuracy                         0.9070       559
+   macro avg     0.8922    0.7691    0.8123       559
+weighted avg     0.9045    0.9070    0.8984       559
+
+
+== Classification report: XGBoost ==
+              precision    recall  f1-score   support
+
+           0     0.9463    0.9196    0.9327       460
+           1     0.6696    0.7576    0.7109        99
+
+    accuracy                         0.8909       559
+   macro avg     0.8080    0.8386    0.8218       559
+weighted avg     0.8973    0.8909    0.8935       559
+
+
+== Classification report: SVM ==
+              precision    recall  f1-score   support
+
+           0     0.9706    0.8609    0.9124       460
+           1     0.5762    0.8788    0.6960        99
+
+    accuracy                         0.8640       559
+   macro avg     0.7734    0.8698    0.8042       559
+weighted avg     0.9007    0.8640    0.8741       559
+
